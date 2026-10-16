@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm a Data Analytics Learner 👋
 
-<!--
-**prerna-gaur13/prerna-gaur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA graduate from IIM Indore, transitioning into Data Analytics with an interest in using data to solve business problems and support better decision-making.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Currently building my skills in Data Analytics.
+- 🐍 Learning Python, Pandas and NumPy for data manipulation and analysis.
+- 🗄️ Practising SQL for querying and analysing data.
+- 📈 Exploring Excel and Power BI for data analysis and visualization.
+- 💡 Interested in business analytics, people analytics and data-driven decision-making.
+
+## 🛠️ Skills I'm Building
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Databases:** SQL, MySQL
+- **Spreadsheets:** Microsoft Excel
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Core Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Statistics
+
+## 📂 Projects
+
+My repositories will showcase hands-on work in data cleaning, exploratory data analysis, visualization and business problem-solving.
+
+More projects coming soon!
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/prerna-gaur-b75491170/
